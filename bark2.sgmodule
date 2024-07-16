@@ -4,4 +4,4 @@
 #!arguments-desc=在BARK_TOKEN填入自己的bark的key
 
 [Script]
-Notification = script-path=https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/notification.js,type=event,event-name=notification,argument="BARK_TOKEN={{{BARK_TOKEN}}}"
+Notification = script-path=https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/notification.js,type=event,event-name=notification,argument="BARK_TOKEN={{{9d2e70a1ad30ac6abf1b0052999ac0423146f2febbca928e69f4ee25963a042c}}}"
